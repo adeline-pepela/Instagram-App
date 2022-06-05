@@ -9,6 +9,7 @@ Users can sign up, login, view and post photos, search and follow other users.
  <!-- Click [View Site](https://instalite.herokuapp.com/)  to visit the site -->
   
 
+
 ## User Story  
   
 * Sign in to the application to start using.  
