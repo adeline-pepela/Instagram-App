@@ -63,6 +63,7 @@ python manage.py makemigrations instagram
 Open the application on your browser `127.0.0.1:8000`.  
   
   
+  
 ## Technology used  
   
 * [Python3.6](https://www.python.org/)  
